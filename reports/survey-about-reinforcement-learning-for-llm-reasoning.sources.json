@@ -1,0 +1,58 @@
+[
+  {
+    "n": 1,
+    "id": "2610.11959",
+    "url": "https://arxiv.org/abs/2610.11959",
+    "title": "MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2610.03972",
+    "url": "https://arxiv.org/abs/2610.03972",
+    "title": "Probabilistic Algorithms for Ising Machines from Optimization to Generative AI",
+    "date": "2026-10-02",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2610.01936",
+    "url": "https://arxiv.org/abs/2610.01936",
+    "title": "Rethinking Knowledge Retrieval for Generation: A Survey on RAG Architectures and Applications",
+    "date": "2026-10-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2606.24937",
+    "url": "https://huggingface.co/papers/2606.24937",
+    "title": "The Hitchhiker's Guide to Agentic AI: From Foundations to Systems",
+    "date": "2026-06-22",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "2504.20464",
+    "url": "https://huggingface.co/papers/2504.20464",
+    "title": "A Survey on GUI Agents with Foundation Models Enhanced by Reinforcement Learning",
+    "date": "2025-04-29",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "3837057",
+    "url": "https://dl.acm.org/doi/abs/10.1145/3837057?af=R",
+    "title": "Reinforcement Learning in the Era of Large Language Models: Challenges and Opportunities",
+    "date": "2026-09-29",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "2506.02553",
+    "url": "https://www.alphaxiv.org/abs/2506.02553",
+    "title": "Response-Level Rewards Are All You Need for Online Reinforcement Learning in LLMs: A Mathematical Perspective",
+    "date": "2025-06-03",
+    "source": "web"
+  }
+]

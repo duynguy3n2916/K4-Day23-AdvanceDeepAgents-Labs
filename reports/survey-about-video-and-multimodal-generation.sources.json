@@ -1,0 +1,78 @@
+[
+  {
+    "n": 1,
+    "id": "2610.12421",
+    "url": "https://arxiv.org/abs/2610.12421",
+    "title": "Beyond Spatio-Temporal Priors: A Generalizable Approach for Dense Correspondence Matching",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2610.12016",
+    "url": "https://arxiv.org/abs/2610.12016",
+    "title": "CausalDreamer: Learning Predictive World Models with Latent Disentanglement",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2603.18639",
+    "url": "https://huggingface.co/papers/2603.18639",
+    "title": "OrthoPhys: Physically Plausible Video Generation with Orthogonal-View Geometry Guidance",
+    "date": "2026-05-25",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "2610.12417",
+    "url": "https://arxiv.org/abs/2610.12417",
+    "title": "WOVEN: Weaving Visual World Modeling into Multimodal LLMs",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "url": "https://arxiv.org/html/2604.06339v1",
+    "title": "Evolution of Video Generative Foundations",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 6,
+    "url": "https://arxiv.science/abs/2610.03221",
+    "title": "VDOT++: Unified Few-Step Video Generation via Unbalanced Optimal Transport Distillation",
+    "date": "2026-10-02",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "2310.08949",
+    "url": "https://huggingface.co/papers/2310.08949",
+    "title": "Making Multimodal Generation Easier: When Diffusion Models Meet LLMs",
+    "date": "2023-10-13",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "url": "https://link.springer.com/article/10.1007/s10462-026-11699-z",
+    "title": "Towards human-centered and efficient video synthesis: a survey of multimodal diffusion models",
+    "date": "2026-09-13",
+    "source": "web"
+  },
+  {
+    "n": 9,
+    "url": "https://dl.acm.org/doi/10.1145/3771724",
+    "title": "Exploring the Latest Trends in Long Video Generation",
+    "date": "2025-12-06",
+    "source": "web"
+  },
+  {
+    "n": 10,
+    "id": "2610.12453",
+    "url": "https://arxiv.org/abs/2610.12453",
+    "title": "Mental-Models for Multi-Agent Systems",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  }
+]

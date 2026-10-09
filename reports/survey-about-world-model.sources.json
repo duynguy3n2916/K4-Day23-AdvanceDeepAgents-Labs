@@ -1,0 +1,66 @@
+[
+  {
+    "n": 1,
+    "id": "2610.08720",
+    "url": "https://arxiv.org/abs/2610.08720",
+    "title": "WorldSolver: Can LLM Agents Simulate the Physical Dynamics via Solver Generation?",
+    "date": "2026-10-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2503.10480",
+    "url": "https://huggingface.co/papers/2503.10480",
+    "title": "World Modeling Makes a Better Planner: Dual Preference Optimization for Embodied Task Planning",
+    "date": "2025-03-13",
+    "source": "hf-search"
+  },
+  {
+    "n": 3,
+    "id": "2603.20927",
+    "url": "https://arxiv.org/abs/2603.20927",
+    "title": "Active Inference for Physical AI Agents -- An Engineering Perspective",
+    "date": "2026-03-21",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2505.07927",
+    "url": "https://arxiv.org/abs/2605.07927",
+    "title": "MatterSim-MT: A multi-task foundation model for in silico materials characterization",
+    "date": "2026-05-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2610.11175",
+    "url": "https://arxiv.org/abs/2610.11175",
+    "title": "Higher-Order Action Supervision Makes A Strong Policy Class",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2610.08720",
+    "url": "https://dl.acm.org/doi/10.1145/3746449",
+    "title": "Understanding World or Predicting Future? A Comprehensive Survey of World Models",
+    "date": "2025-09-09",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "2605.26856",
+    "url": "https://arxiv.org/abs/2605.26856",
+    "title": "The Sensation Modulating Network:Haltability as the architectural ground for object-directed phenomenology",
+    "date": "2026-05-26",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "2509.07996",
+    "url": "https://huggingface.co/papers/2509.07996",
+    "title": "3D and 4D World Modeling: A Survey",
+    "date": "2025-09-04",
+    "source": "hf-search"
+  }
+]

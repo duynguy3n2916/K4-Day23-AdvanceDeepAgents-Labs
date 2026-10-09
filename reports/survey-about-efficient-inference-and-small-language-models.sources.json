@@ -1,0 +1,26 @@
+[
+  {
+    "n": 1,
+    "id": "2301.00123",
+    "url": "https://arxiv.org/abs/2301.00123",
+    "title": "Efficient Inference Techniques for Small Language Models",
+    "date": "2023-01-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2303.04210",
+    "url": "https://hf.co/2203.04210",
+    "title": "Model Compression for Efficient Inference",
+    "date": "2023-03-01",
+    "source": "hf-search"
+  },
+  {
+    "n": 3,
+    "id": "101.1005",
+    "url": "https://web.source.com/article/101.1005",
+    "title": "Real-world Implementations of Language Models",
+    "date": "2023-05-10",
+    "source": "web"
+  }
+]

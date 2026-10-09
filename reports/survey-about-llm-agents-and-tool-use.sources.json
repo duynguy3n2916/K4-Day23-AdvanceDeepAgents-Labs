@@ -1,0 +1,60 @@
+[
+  {
+    "n": 1,
+    "id": "2607.04433",
+    "url": "https://arxiv.org/abs/2607.04433",
+    "title": "Autonomous Information Seeking: A Roadmap for Agentic Recommender Systems",
+    "date": "2026-07-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "url": "https://huggingface.co/papers/2310.03128",
+    "title": "MetaTool Benchmark for Large Language Models: Deciding Whether to Use Tools and Which to Use",
+    "date": "2023-10-04",
+    "source": "hf-search"
+  },
+  {
+    "n": 3,
+    "id": "2606.28450",
+    "url": "https://arxiv.org/abs/2606.28450",
+    "title": "LLM agents security duality: a comprehensive survey of self-security and empowered cybersecurity",
+    "date": "2026-06-26",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "url": "https://arxiv.org/abs/2408.04650",
+    "title": "Building Trust in Mental Health Chatbots: Safety Metrics and LLM-Based Evaluation Tools",
+    "date": "2024-08-03",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "url": "https://link.springer.com/article/10.1007/s10462-025-11471-9",
+    "title": "From language to action: a review of large language models as autonomous agents and tool users",
+    "date": "2026-01-06",
+    "source": "web"
+  },
+  {
+    "n": 6,
+    "url": "https://link.springer.com/article/10.1007/s43681-025-00847-w",
+    "title": "Ethical perspectives on deployment of large language model ...",
+    "date": "2025-12-04",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "url": "https://huggingface.co/papers/2511.04427",
+    "title": "Does AI-Assisted Coding Deliver? A Difference-in-Differences Study of Cursor's Impact on Software Projects",
+    "date": "2025-11-06",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "url": "https://huggingface.co/papers/2403.14473",
+    "title": "The Ethics of ChatGPT in Medicine and Healthcare: A Systematic Review on Large Language Models (LLMs)",
+    "date": "2024-03-21",
+    "source": "hf-search"
+  }
+]
