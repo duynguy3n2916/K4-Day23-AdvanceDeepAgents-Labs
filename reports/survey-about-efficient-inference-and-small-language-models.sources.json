@@ -1,26 +1,74 @@
 [
   {
     "n": 1,
-    "id": "2301.00123",
-    "url": "https://arxiv.org/abs/2301.00123",
-    "title": "Efficient Inference Techniques for Small Language Models",
-    "date": "2023-01-01",
+    "id": "2501.15014",
+    "url": "https://arxiv.org/abs/2501.15014",
+    "title": "On Accelerating Edge AI: Optimizing Resource-Constrained Environments",
+    "date": "2025-01-25",
     "source": "arxiv"
   },
   {
     "n": 2,
-    "id": "2303.04210",
-    "url": "https://hf.co/2203.04210",
-    "title": "Model Compression for Efficient Inference",
-    "date": "2023-03-01",
-    "source": "hf-search"
+    "id": "10.1145/3813822.3813880",
+    "url": "https://dl.acm.org/doi/10.1145/3813822.3813880",
+    "title": "Compression Techniques for Large-Scale Transformer Models: A Comprehensive Survey",
+    "date": "2026-09-01",
+    "source": "web"
   },
   {
     "n": 3,
-    "id": "101.1005",
-    "url": "https://web.source.com/article/101.1005",
-    "title": "Real-world Implementations of Language Models",
-    "date": "2023-05-10",
+    "id": "2609.12303",
+    "url": "https://arxiv.org/abs/2609.12303",
+    "title": "Breaking the Token Ceiling: Distilling Smaller, Stronger Byte Models",
+    "date": "2026-09-11",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2510.09351",
+    "url": "https://huggingface.co/papers/2510.09351",
+    "title": "ReTraceQA: Evaluating Reasoning Traces of Small Language Models in Commonsense Question Answering",
+    "date": "2025-10-10",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "2025.acl-long.718",
+    "url": "https://aclanthology.org/anthology-files/anthology-files/pdf/acl/2025.acl-long.718.pdf",
+    "title": "Demystifying Small Language Models for Edge Deployment",
+    "date": "N/A",
     "source": "web"
+  },
+  {
+    "n": 6,
+    "id": "N/A",
+    "url": "https://qubittool.com/blog/small-language-models-edge-deployment",
+    "title": "Small Language Models: A Production Edge Deployment Guide",
+    "date": "2026-04-22",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "N/A",
+    "url": "https://github.com/nvidia/Model-Optimizer",
+    "title": "NVIDIA Model Optimizer",
+    "date": "2024-04-23",
+    "source": "web"
+  },
+  {
+    "n": 8,
+    "id": "2608.25761",
+    "url": "https://arxiv.org/abs/2608.25761",
+    "title": "Beam Search, Self-Consistency, and the Limits of Inference-Time Scaling for Grammar-Constrained Text-to-SQL in Small Language Models",
+    "date": "2026-08-26",
+    "source": "arxiv"
+  },
+  {
+    "n": 9,
+    "id": "2410.20011",
+    "url": "https://arxiv.org/html/2410.20011v1",
+    "title": "A Survey of Small Language Models",
+    "date": "2024-10-25",
+    "source": "arxiv"
   }
 ]
